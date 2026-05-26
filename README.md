@@ -4,7 +4,9 @@
 
 ## Section A
 
-(Dev A trägt sich hier ein)
+-Name: Christian Schrüfer
+- Lieblingssprache: Python
+
 
 ## Section B
 

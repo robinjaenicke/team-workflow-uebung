@@ -5,6 +5,8 @@
 ## Section A
 
 -Name: Christian Schrüfer
+- Lieblingssprache: Python
+
 
 ## Section B
 
